@@ -12,7 +12,7 @@ import {
 export class BasicReportService extends PrismaClient implements OnModuleInit {
   async onModuleInit() {
     await this.$connect();
-    console.log('connected to the database');
+    console.log('connected to the database-BasicReportService');
   }
 
   constructor(private readonly printerService: PrinterService) {
