@@ -93,7 +93,7 @@ export const getOrderByIdReport = (
         ],
       },
       {
-        qr: 'https://devtalles.com',
+        qr: 'https://www.linkedin.com/in/dash128/',
         fit: 75,
         alignment: 'right',
       },
